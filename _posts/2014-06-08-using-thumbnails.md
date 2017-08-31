@@ -9,4 +9,3 @@ tags:
  - thumbnails
  - carte noire
 ---
-thumbnail: jekyll
